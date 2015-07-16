@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: b12124e5139ed5a40b013c0b615a1dc6
+timeCreated: 1436923753
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Retry
+    21300002: ground
+    21300004: Bird1
+    21300006: Bird2
+    21300008: TirexMain
+    21300010: Cloud
+    21300012: Tirex_EyeOpen
+    21300014: Tirex_EyeClose
+    21300016: Tirex_Walk1
+    21300018: Tirex_Walk2
+    21300020: Tirex_Died1
+    21300022: Tirex_Died2
+    21300024: Tirex_Dodge1
+    21300026: Tirex_Dodge2
+    21300028: GameOver
+    21300030: HI
+    21300032: 0
+    21300034: 1
+    21300036: 2
+    21300038: 3
+    21300040: 4
+    21300042: 5
+    21300044: 6
+    21300046: 7
+    21300048: 8
+    21300050: 9
+    21300052: Obs8
+    21300054: Obs7
+    21300056: Obs6
+    21300058: Obs5
+    21300060: Obs4
+    21300062: Obs3
+    21300064: Obs2
+    21300066: Obs1
+    21300068: Frame
+    21300070: g+
+    21300072: twitter
+    21300074: achievements
+    21300076: facebook
+    21300078: play
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 40
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Retry
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ground
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 1200
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bird1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 27
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bird2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 27
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TirexMain
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 17
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cloud
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 50
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tirex_EyeOpen
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 19
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tirex_EyeClose
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 19
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tirex_Walk1
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 19
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tirex_Walk2
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 19
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tirex_Died1
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 19
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tirex_Died2
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 19
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tirex_Dodge1
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 19
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tirex_Dodge2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 19
+        width: 59
+        height: 47
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GameOver
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 42
+        width: 193
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: HI
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 55
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 0
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 55
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 55
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 2
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 55
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 55
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 55
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 5
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 55
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 6
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 55
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 7
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 55
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 8
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 55
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 9
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 55
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Obs8
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 17
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Obs7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 17
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Obs6
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 31
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Obs5
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 31
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Obs4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 31
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Obs3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 31
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Obs2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 31
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Obs1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 31
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Frame
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 23
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: g+
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 38
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: twitter
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 19
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: achievements
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 39
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: facebook
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 20
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: play
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 47
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
